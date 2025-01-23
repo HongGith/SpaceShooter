@@ -11,7 +11,6 @@ public class BGScroller : MonoBehaviour
 	void Start ()
 	{
 		startPosition = transform.position;
-		Debug.Log("========Start");
 	}
 
 	void Update ()
